@@ -1,0 +1,2 @@
+-- Modelagem do banco de dados ainda não definida.
+-- Não adicionar tabelas, campos ou relacionamentos nesta etapa.

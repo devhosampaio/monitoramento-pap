@@ -1,0 +1,2 @@
+-- Políticas de segurança ainda não definidas.
+-- Não adicionar políticas RLS nesta etapa.
